@@ -44,11 +44,9 @@ The cats know each other. A site in DevCatz becomes an environment in DialCatz, 
 
 ## Install
 
-| | |
-|---|---|
-| **Download** | [catzoid.com/download](https://catzoid.com/download) picks the build for your computer. Mac builds are signed and notarized; Windows installers are built by GitHub Actions from each release tag and are [not code-signed yet](https://catzoid.com/legal/code-signing). |
-| **Homebrew** | `brew install --cask catzoidhub/catz/devcatz` — also `dbcatz` and `dialcatz`, from the [homebrew-catz](https://github.com/catzoidhub/homebrew-catz) tap. |
-| **In the app** | Each cat can install its siblings from its own *Catzoid* menu. |
+- **Download** — [catzoid.com/download](https://catzoid.com/download) picks the build for your computer. Mac builds are signed and notarized; Windows installers are built by GitHub Actions from each release tag and are [not code-signed yet](https://catzoid.com/legal/code-signing).
+- **Homebrew** — `brew install --cask catzoidhub/catz/devcatz`, also `dbcatz` and `dialcatz`, from the [homebrew-catz](https://github.com/catzoidhub/homebrew-catz) tap.
+- **In the app** — each cat can install its siblings from its own *Catzoid* menu.
 
 <br>
 
