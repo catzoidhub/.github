@@ -52,7 +52,7 @@ The cats know each other. A site in DevCatz becomes an environment in DialCatz, 
 
 ## Built in the open
 
-Every app is **GPL-3.0** (DialCatz Den **AGPL-3.0**, MCatzP **Apache-2.0**), © Mahryan Rakhmatullah, and takes pull requests under a [CLA](https://catzoid.com/legal/cla). The names and the cat logos are trademarks — see each repo's `TRADEMARKS.md`. Three developers look after the litter: [Ryan](https://github.com/ryankucingg) (DevCatz and the website), Hafiz (DBCatz, DoCatz) and Wildan (DialCatz, MCatzP).
+Every app is **GPL-3.0** (DialCatz Den **AGPL-3.0**, MCatzP **Apache-2.0**), © Mahryan Rakhmatullah, and takes pull requests under a [CLA](https://github.com/catzoidhub/DevCatz/blob/main/CLA.md). The names and the cat logos are trademarks — see each repo's `TRADEMARKS.md`. Three developers look after the litter: [Ryan](https://github.com/ryankucingg) (DevCatz and the website), Hafiz (DBCatz, DoCatz) and Wildan (DialCatz, MCatzP).
 
 Found a bug? Use *Report a Bug* inside the app, or open an issue on the cat's repo. Want to help a cat earn its Windows signature? Star it, write about it, send a pull request — that is the recognition free code signing is given for.
 
