@@ -34,7 +34,7 @@
 
 ## One litter, not five strays
 
-The cats know each other. A site in DevCatz becomes an environment in DialCatz, with its Laravel routes imported as requests. A database DevCatz installed opens in DBCatz with one click, already connected. When DoCatz grows up, its databases wander into DBCatz and its HTTP services into DialCatz — and MCatzP gives your AI assistant one door into all of them.
+The cats know each other. A site in DevCatz becomes an environment in DialCatz, with its Laravel routes imported as requests. A database DevCatz installed opens in DBCatz with one click, already connected. DoCatz carries the containers — its databases wander into DBCatz and its HTTP services into DialCatz. And soon MCatzP gives your AI assistant one door into all of them.
 
 - **Production safety** — DBCatz colours production connections, asks before a write and keeps `DELETE` without a `WHERE` from leaving the window.
 - **Your keys, your machine** — AI providers, Git tokens and database passwords live in your OS keychain (Keychain on macOS, DPAPI on Windows), never in a settings file.
@@ -45,7 +45,7 @@ The cats know each other. A site in DevCatz becomes an environment in DialCatz, 
 ## Install
 
 - **Download** — [catzoid.com/download](https://catzoid.com/download) picks the build for your computer. Mac builds are signed and notarized; Windows installers are built by GitHub Actions from each release tag and are [not code-signed yet](https://catzoid.com/legal/code-signing).
-- **Homebrew** — `brew install --cask catzoidhub/catz/devcatz`, also `dbcatz` and `dialcatz`, from the [homebrew-catz](https://github.com/catzoidhub/homebrew-catz) tap.
+- **Homebrew** — `brew install --cask catzoidhub/catz/devcatz`, also `dbcatz`, `dialcatz` and `docatz`, from the [homebrew-catz](https://github.com/catzoidhub/homebrew-catz) tap.
 - **In the app** — each cat can install its siblings from its own *Catzoid* menu.
 
 <br>
