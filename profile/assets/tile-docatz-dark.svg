@@ -15,7 +15,7 @@
 <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
   <text x="130" y="68" font-size="30" font-weight="740" letter-spacing="-0.5" fill="#f3f2ff">DoCatz</text>
   <text x="130" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#6fb3f5">CONTAINERS</text>
-  <text x="34" y="152" font-size="16.5" fill="#b8b4e6">A light Linux VM, every container on</text><text x="34" y="178" font-size="16.5" fill="#b8b4e6">its own name, asleep when idle.</text>
+  <text x="34" y="152" font-size="16.5" fill="#b8b4e6">A Docker engine and container</text><text x="34" y="178" font-size="16.5" fill="#b8b4e6">manager — compose projects, logs,</text><text x="34" y="204" font-size="16.5" fill="#b8b4e6">a terminal, and every container on</text><text x="34" y="230" font-size="16.5" fill="#b8b4e6">its own https:// name.</text>
   <text x="34" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1" fill="#7d79b5">macOS · Windows</text>
 </g>
 </svg>
