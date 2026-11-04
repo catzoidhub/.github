@@ -19,9 +19,9 @@ const CATS = [
   { id: 'devcatz', name: 'DevCatz', color: '#6c5de7', light: '#9996ff', kind: 'Local dev environment', line: 'Every site on its own https://*.localhost — runtimes, databases, storage, mail, tunnels, Docker.', state: 'macOS · Windows' },
   { id: 'dbcatz', name: 'DBCatz', color: '#d9a03a', light: '#f2c25c', kind: 'Database client', line: 'MySQL, PostgreSQL, SQLite, Redis, MongoDB, Elasticsearch — with production safety.', state: 'macOS · Windows' },
   { id: 'dialcatz', name: 'DialCatz', color: '#2aa89a', light: '#4fd1c1', kind: 'API client', line: 'REST, GraphQL and WebSocket — collections, scripts, Git and a self-hosted team den.', state: 'macOS · Windows' },
-  { id: 'docatz', name: 'DoCatz', color: '#3f93e3', light: '#6fb3f5', kind: 'Containers', line: 'A light Linux VM, every container on its own name, asleep when idle.', state: 'still a kitten' },
+  { id: 'docatz', name: 'DoCatz', color: '#3f93e3', light: '#6fb3f5', kind: 'Containers', line: 'A Docker engine and container manager — compose projects, logs, a terminal, and every container on its own https:// name.', state: 'macOS · Windows' },
   { id: 'den', icon: 'dialcatz', name: 'DialCatz Den', color: '#2aa89a', light: '#4fd1c1', kind: 'Team server', line: 'Self-hosted sync for DialCatz: one small Go container, invite links instead of accounts.', state: 'Docker · SQLite or PostgreSQL' },
-  { id: 'mcatzp', name: 'MCatzP', color: '#d6407f', light: '#f06aa4', kind: 'MCP server', line: 'One door for your AI into the whole litter. One connection, every cat.', state: 'coming with DoCatz' },
+  { id: 'mcatzp', name: 'MCatzP', color: '#d6407f', light: '#f06aa4', kind: 'MCP server', line: 'One connection, every cat: your AI can do what the apps do — and nothing changes until you confirm it in the app.', state: 'macOS · Windows' },
 ];
 
 const stars = (t, seed, w, h, n) => {
